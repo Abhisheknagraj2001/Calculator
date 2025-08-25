@@ -118,6 +118,6 @@ equalBtn.addEventListener('click',()=>{
 
 clearBtn.addEventListener('click',clearDisplay);
 
-deletelBtn.addEventListener('click',deleteLastDigit);
+deleteBtn.addEventListener('click',deleteLastDigit);
 
 
